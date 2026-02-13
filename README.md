@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi! I'm Ruslan 👋
 
-<!--
-**khuslan/khuslan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I create Telegram bots and automation using Python. Available for freelance projects.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python (aiogram, telebot)
+- Building Telegram bots from scratch
+- Parsing and automation tasks
+- Working with databases (SQLite, PostgreSQL)
+- Integrating payments and external services
+
+---
+
+## Projects
+- **Telegram Booking Bot** — bot for client appointments  
+- **Shop Bot** — bot-shop with catalog and payments  
+- **Parser Bot** — automation for data collection  
+- **ChatGPT Telegram Bot** — bot with AI features
+
+---
+
+## Contact
+- Telegram: [@khuslan](https://t.me/khuslan)  
+- Kwork: [in process]()
+
